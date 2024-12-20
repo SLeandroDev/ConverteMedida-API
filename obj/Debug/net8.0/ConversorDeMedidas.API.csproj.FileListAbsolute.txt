@@ -1,0 +1,97 @@
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\bin\Debug\net8.0\appsettings.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.exe
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.deps.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.runtimeconfig.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.pdb
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.csproj.AssemblyReference.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.AssemblyInfoInputs.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.AssemblyInfo.cs
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.csproj.CoreCompileInputs.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets\msbuild.ConversorDeMedidas.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ConversorDeMedidas.API.props
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConversorDeMedidas.API.props
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConversorDeMedidas.API.props
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\scopedcss\bundle\ConversorDeMedidas.API.styles.css
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\Converso.B20CF097.Up2Date
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\refint\ConversorDeMedidas.API.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.pdb
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.genruntimeconfig.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\obj\Debug\net8.0\ref\ConversorDeMedidas.API.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\bin\Debug\net8.0\appsettings.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.exe
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.deps.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.runtimeconfig.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.pdb
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.csproj.AssemblyReference.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.AssemblyInfoInputs.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.AssemblyInfo.cs
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.csproj.CoreCompileInputs.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets\msbuild.ConversorDeMedidas.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ConversorDeMedidas.API.props
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConversorDeMedidas.API.props
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConversorDeMedidas.API.props
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\scopedcss\bundle\ConversorDeMedidas.API.styles.css
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\Converso.B20CF097.Up2Date
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\refint\ConversorDeMedidas.API.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.pdb
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.genruntimeconfig.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\ref\ConversorDeMedidas.API.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\ConversorDeMedidas.API\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.sourcelink.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\bin\Debug\net8.0\appsettings.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.exe
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.deps.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.runtimeconfig.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\bin\Debug\net8.0\ConversorDeMedidas.API.pdb
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.csproj.AssemblyReference.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.AssemblyInfoInputs.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.AssemblyInfo.cs
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.csproj.CoreCompileInputs.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets\msbuild.ConversorDeMedidas.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ConversorDeMedidas.API.props
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConversorDeMedidas.API.props
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConversorDeMedidas.API.props
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\scopedcss\bundle\ConversorDeMedidas.API.styles.css
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\Converso.B20CF097.Up2Date
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\refint\ConversorDeMedidas.API.dll
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.pdb
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\ConversorDeMedidas.API.genruntimeconfig.cache
+C:\Users\leand.DESKTOP-PR6T4QP\source\repos\Conversor de Medidas Back-end\ConversorDeMedidas.API\obj\Debug\net8.0\ref\ConversorDeMedidas.API.dll
