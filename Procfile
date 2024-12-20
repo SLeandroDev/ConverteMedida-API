@@ -1,1 +1,1 @@
-web: dotnet ConversorDeMedidasAPI.dll
+web: dotnet ConversorDeMedidas.API.dll
