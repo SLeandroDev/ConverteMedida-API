@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leand.DESKTOP-PR6T4QP\\source\\repos\\Conversor de Medidas Back-end\\ConversorDeMedidas.API\\ConversorDeMedidas.API.csproj": {}
+    "C:\\Users\\leand.DESKTOP-PR6T4QP\\source\\repos\\Conversor de Medidas Back-end\\ConversorDeMedidas\\ConversorDeMedidas.API\\ConversorDeMedidas.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leand.DESKTOP-PR6T4QP\\source\\repos\\Conversor de Medidas Back-end\\ConversorDeMedidas.API\\ConversorDeMedidas.API.csproj": {
+    "C:\\Users\\leand.DESKTOP-PR6T4QP\\source\\repos\\Conversor de Medidas Back-end\\ConversorDeMedidas\\ConversorDeMedidas.API\\ConversorDeMedidas.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand.DESKTOP-PR6T4QP\\source\\repos\\Conversor de Medidas Back-end\\ConversorDeMedidas.API\\ConversorDeMedidas.API.csproj",
+        "projectUniqueName": "C:\\Users\\leand.DESKTOP-PR6T4QP\\source\\repos\\Conversor de Medidas Back-end\\ConversorDeMedidas\\ConversorDeMedidas.API\\ConversorDeMedidas.API.csproj",
         "projectName": "ConversorDeMedidas.API",
-        "projectPath": "C:\\Users\\leand.DESKTOP-PR6T4QP\\source\\repos\\Conversor de Medidas Back-end\\ConversorDeMedidas.API\\ConversorDeMedidas.API.csproj",
+        "projectPath": "C:\\Users\\leand.DESKTOP-PR6T4QP\\source\\repos\\Conversor de Medidas Back-end\\ConversorDeMedidas\\ConversorDeMedidas.API\\ConversorDeMedidas.API.csproj",
         "packagesPath": "C:\\Users\\leand.DESKTOP-PR6T4QP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand.DESKTOP-PR6T4QP\\source\\repos\\Conversor de Medidas Back-end\\ConversorDeMedidas.API\\obj\\",
+        "outputPath": "C:\\Users\\leand.DESKTOP-PR6T4QP\\source\\repos\\Conversor de Medidas Back-end\\ConversorDeMedidas\\ConversorDeMedidas.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand.DESKTOP-PR6T4QP\\AppData\\Roaming\\NuGet\\NuGet.Config",
