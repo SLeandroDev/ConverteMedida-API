@@ -1,1 +1,1 @@
-web: dotnet ConversorDeMedidas.API.dll
+echo "web: dotnet SeuProjeto.dll" > Procfile
