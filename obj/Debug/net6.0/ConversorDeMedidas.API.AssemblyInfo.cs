@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConversorDeMedidas.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b18bdb95e05065fa64f9847a972d48239b66fdd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5d9b7efef336d9f08b381f5505554b0099fd3c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversorDeMedidas.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConversorDeMedidas.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
